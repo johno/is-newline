@@ -2,7 +2,7 @@
   "name": "is-newline",
   "description": "Determine whether a given string is a newline character.",
   "author": "John Otander",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "files": [
     "index.js"
@@ -14,7 +14,12 @@
     "type": "git",
     "url": "https://github.com/johnotander/is-newline.git"
   },
-  "keywords": [],
+  "keywords": [
+    "newline",
+    "is",
+    "cf",
+    "lf"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnotander/is-newline/issues"
